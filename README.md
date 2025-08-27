@@ -4,11 +4,11 @@ This project was to build a basic website on recipes using new HTML skills I hav
 Such as the following.
 
 - using HTML boilerplate
-- headings <h1>
+- headings 
 - directories
-- links <a href="">
-- images <img src="">
-- paragraphs <p>
-- ordered lists <ol>
-- unordered lists <ul>
-- lists <li>
+- links
+- images 
+- paragraphs 
+- ordered lists 
+- unordered lists 
+- lists 
